@@ -1,0 +1,14 @@
+C:\Users\20136824\source\repos\INTROPRG\Assessments\Lottery_assessment\Lottery_assessment\bin\Debug\net8.0\Lottery_assessment.exe
+C:\Users\20136824\source\repos\INTROPRG\Assessments\Lottery_assessment\Lottery_assessment\bin\Debug\net8.0\Lottery_assessment.deps.json
+C:\Users\20136824\source\repos\INTROPRG\Assessments\Lottery_assessment\Lottery_assessment\bin\Debug\net8.0\Lottery_assessment.runtimeconfig.json
+C:\Users\20136824\source\repos\INTROPRG\Assessments\Lottery_assessment\Lottery_assessment\bin\Debug\net8.0\Lottery_assessment.dll
+C:\Users\20136824\source\repos\INTROPRG\Assessments\Lottery_assessment\Lottery_assessment\bin\Debug\net8.0\Lottery_assessment.pdb
+C:\Users\20136824\source\repos\INTROPRG\Assessments\Lottery_assessment\Lottery_assessment\obj\Debug\net8.0\Lottery_assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20136824\source\repos\INTROPRG\Assessments\Lottery_assessment\Lottery_assessment\obj\Debug\net8.0\Lottery_assessment.AssemblyInfoInputs.cache
+C:\Users\20136824\source\repos\INTROPRG\Assessments\Lottery_assessment\Lottery_assessment\obj\Debug\net8.0\Lottery_assessment.AssemblyInfo.cs
+C:\Users\20136824\source\repos\INTROPRG\Assessments\Lottery_assessment\Lottery_assessment\obj\Debug\net8.0\Lottery_assessment.csproj.CoreCompileInputs.cache
+C:\Users\20136824\source\repos\INTROPRG\Assessments\Lottery_assessment\Lottery_assessment\obj\Debug\net8.0\Lottery_assessment.dll
+C:\Users\20136824\source\repos\INTROPRG\Assessments\Lottery_assessment\Lottery_assessment\obj\Debug\net8.0\refint\Lottery_assessment.dll
+C:\Users\20136824\source\repos\INTROPRG\Assessments\Lottery_assessment\Lottery_assessment\obj\Debug\net8.0\Lottery_assessment.pdb
+C:\Users\20136824\source\repos\INTROPRG\Assessments\Lottery_assessment\Lottery_assessment\obj\Debug\net8.0\Lottery_assessment.genruntimeconfig.cache
+C:\Users\20136824\source\repos\INTROPRG\Assessments\Lottery_assessment\Lottery_assessment\obj\Debug\net8.0\ref\Lottery_assessment.dll
